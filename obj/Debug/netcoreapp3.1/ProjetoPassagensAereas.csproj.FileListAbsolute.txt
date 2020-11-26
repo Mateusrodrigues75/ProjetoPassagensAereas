@@ -1,0 +1,13 @@
+C:\Users\mrodr\Documents\C#\ProjetoPassagensAereas\bin\Debug\netcoreapp3.1\ProjetoPassagensAereas.exe
+C:\Users\mrodr\Documents\C#\ProjetoPassagensAereas\bin\Debug\netcoreapp3.1\ProjetoPassagensAereas.deps.json
+C:\Users\mrodr\Documents\C#\ProjetoPassagensAereas\bin\Debug\netcoreapp3.1\ProjetoPassagensAereas.runtimeconfig.json
+C:\Users\mrodr\Documents\C#\ProjetoPassagensAereas\bin\Debug\netcoreapp3.1\ProjetoPassagensAereas.runtimeconfig.dev.json
+C:\Users\mrodr\Documents\C#\ProjetoPassagensAereas\bin\Debug\netcoreapp3.1\ProjetoPassagensAereas.dll
+C:\Users\mrodr\Documents\C#\ProjetoPassagensAereas\bin\Debug\netcoreapp3.1\ProjetoPassagensAereas.pdb
+C:\Users\mrodr\Documents\C#\ProjetoPassagensAereas\obj\Debug\netcoreapp3.1\ProjetoPassagensAereas.csprojAssemblyReference.cache
+C:\Users\mrodr\Documents\C#\ProjetoPassagensAereas\obj\Debug\netcoreapp3.1\ProjetoPassagensAereas.AssemblyInfoInputs.cache
+C:\Users\mrodr\Documents\C#\ProjetoPassagensAereas\obj\Debug\netcoreapp3.1\ProjetoPassagensAereas.AssemblyInfo.cs
+C:\Users\mrodr\Documents\C#\ProjetoPassagensAereas\obj\Debug\netcoreapp3.1\ProjetoPassagensAereas.csproj.CoreCompileInputs.cache
+C:\Users\mrodr\Documents\C#\ProjetoPassagensAereas\obj\Debug\netcoreapp3.1\ProjetoPassagensAereas.dll
+C:\Users\mrodr\Documents\C#\ProjetoPassagensAereas\obj\Debug\netcoreapp3.1\ProjetoPassagensAereas.pdb
+C:\Users\mrodr\Documents\C#\ProjetoPassagensAereas\obj\Debug\netcoreapp3.1\ProjetoPassagensAereas.genruntimeconfig.cache
